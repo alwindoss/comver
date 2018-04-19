@@ -144,4 +144,5 @@ func constructObj(lines []string, art chan Artifact) {
 		}
 		art <- artifact
 	}
+	close(art)
 }
