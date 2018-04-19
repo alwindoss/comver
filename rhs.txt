@@ -1,0 +1,15 @@
+AAAAAAA1         1.0.1
+AAAAAAA2         1.0.1
+AAAAAAA3         1.0.1
+AAAAAAA4         1.0.3
+AAAAAAA5         1.0.1
+AAAAAAA6         1.0.1
+AAAAAAA7         1.0.1
+AAAAAAA8         2.0.1
+AAAAAAA9         1.0.1
+AAAAAA10         1.0.1
+AAAAAA11         1.0.1
+AAAAAA12         1.0.1
+AAAAAA13         1.0.1
+AAAAAA14         4.0.1
+AAAAAA15         1.0.1
